@@ -1,4 +1,4 @@
-# webhtml - simple html application
+# webhtml - simple html application Study docker
 Version 0.1.0
  bgcolor=purple, OS=ubuntu16, Version: 0.1.0
 Version 1.0.0
